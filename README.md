@@ -26,6 +26,6 @@ Example of mctp.json as mctp1.nohit.cc
 version 0.0.1-SNAPSHOT and version 0.0.2-SNAPSHOT are not compatible!
 
 # Support
-[![Discord Banner 4](https://discordapp.com/api/guilds/691818868943093812/widget.png?style=banner4)](https://discord.nohit.cc)
+[![Discord Banner 4](https://discordapp.com/api/guilds/867038364552396860/widget.png?style=banner4)](https://discord.gg/Y6w5Jv3EAR)
 
   
